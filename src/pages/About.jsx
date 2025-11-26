@@ -11,7 +11,7 @@ function About() {
             {/* left content */}
             <div className="px-[4%] py-[40px] text-center flex-1">
               <h2 className="text-2xl sm:text-4xl leading-tight mb-11 max-w-[450px] mx-auto font-bold shadow-lg">
-                CALCULATE YOUR CARBON FOOTPRINT WITH OUR TEAM - TechCodeCrafters
+                CALCULATE YOUR CARBON FOOTPRINT WITH OUR TEAM 
               </h2>
 
               <div className="bg-[url('/images/results-tree.78168e82.png')] bg-top bg-no-repeat bg-contain h-[200px] mx-auto mb-4 w-[250px] sm:w-[300px] relative text-center">
